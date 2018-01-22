@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 hi fuck
 
 проебал
+=======
+hi fuck
+>>>>>>> parent of 07f2d26... 123
